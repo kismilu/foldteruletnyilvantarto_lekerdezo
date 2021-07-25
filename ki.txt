@@ -1,0 +1,4 @@
+Legolcsobb parcella tulaj: Bela (10000.0/494.0)
+Legdragabb parcella tulaj: Csilla (100.0/0.5)
+Legolcsobb Foldterulet tulaj: Bela (10084.0/494.5)
+Legdragabb Foldterulet tulaj: Csilla (100.0/0.5)

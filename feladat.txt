@@ -1,0 +1,13 @@
+A feladat egy földterületnyilvántartó és lekérdezõ program megírása. 
+A területeket nem átfedõ, háromszög alakú oszthatatlan, síkban elhelyezett
+parcellánként kapjuk meg. Minden parcellának van tulajdonosa, értéke 
+és 3 csúcspontja, kétdimenziós (x,y) koordinátákkal megadva. A feladat
+meg- határozni, hogy az egyes földtulajdonosoknak hány darab, egyenként
+és összesen mekkora területû és értékû földterület áll a rendelkezésére, 
+valamint kié a relatíve legdrágább illetve legolcsóbb parcella, illetve
+földterület. Az egymással szomszédos, azonos tulajdonban lévõ parcellák 
+egy földterületet alkotnak. (Két parcella akkor szomszédos, ha egyegy oldaluk,
+azaz két-két csúcspontjuk teljesen megegyezik.) 
+Az input a parcellák adatait tartalmazza tetszõleges formában. Az output
+formátuma szintén tetszõleges, de rendezett formában tartalmaznia kell 
+az összes meghatározandó adatot. 
